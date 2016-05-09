@@ -5,5 +5,5 @@
 ##### http://www.broadinstitute.org/annotation/argo/help/gff3.html
 #### 3. Literature
 ##### Mobster
-###### https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0488-x\n
+###### https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0488-x
 ###### http://nar.oxfordjournals.org/content/43/21/10292
