@@ -1,4 +1,4 @@
-# DNA.lap.lai
+# DNA.lap.lai (Thứ 5, 6h VN)
 ### Các công việc cần làm:
 #### 1. Down file repeat từ ucsc
 #### 2. Chuyển đổi file format từ tab txt sang gff3
